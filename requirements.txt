@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langchain
+langchain-google-genai
+langchain-community
+faiss-cpu
+sentence-transformers
+transformers
+torch
+python-dotenv
+requests
+google-generativeai
+groq

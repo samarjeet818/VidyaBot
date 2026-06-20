@@ -1,0 +1,74 @@
+Q: What are Newton's Laws of Motion?
+A: Newton's three laws explain how objects start, stop, and move. The first law is inertia, the second links force, mass, and acceleration, and the third says every action has an equal and opposite reaction.
+
+Q: Why do objects fall to the ground?
+A: Objects fall because Earth pulls them with gravity. Gravity gives things weight and keeps planets and moons in orbit.
+
+Q: What is the difference between reflection and refraction?
+A: Reflection is when light bounces back from a surface like a mirror. Refraction is when light bends as it moves from one medium to another, like air to water.
+
+Q: What is the law of reflection?
+A: The angle of incidence is equal to the angle of reflection. The incident ray, reflected ray, and the normal all lie in the same plane.
+
+Q: What is Ohm's Law?
+A: Ohm's Law says voltage equals current multiplied by resistance, or V = IR. It helps us understand how electricity flows through a circuit.
+
+Q: What is electrical power?
+A: Electrical power is the rate at which electrical energy is used. It is calculated by P = VI, and it tells us how much energy a device consumes each second.
+
+Q: What is the periodic table?
+A: The periodic table is a chart of all elements arranged by atomic number. Elements in the same group have similar properties.
+
+Q: What are acids and bases?
+A: Acids taste sour and turn blue litmus red, while bases taste bitter and feel slippery. Acids release hydrogen ions in water, and bases release hydroxide ions.
+
+Q: What is a chemical reaction?
+A: A chemical reaction is a process in which one or more substances change into new substances. Signs include colour change, gas formation, temperature change, or formation of a precipitate.
+
+Q: What are metals and non-metals?
+A: Metals are usually shiny, hard, and good conductors of heat and electricity. Non-metals are often dull and poor conductors, though there are a few exceptions.
+
+Q: What are carbon compounds?
+A: Carbon compounds are compounds that contain carbon, such as methane, ethanol, and sugar. Carbon makes so many compounds because it can form long chains and strong bonds.
+
+Q: What is rusting of iron?
+A: Rusting is the slow reaction of iron with oxygen and moisture. It weakens iron objects, so they are protected by paint, oil, or galvanising.
+
+Q: What is a quadratic equation?
+A: A quadratic equation is an equation of the form ax^2 + bx + c = 0, where a is not zero. Its graph is a parabola, and it can have two, one, or no real roots.
+
+Q: What is the quadratic formula?
+A: The quadratic formula is x = (-b +/- sqrt(b^2 - 4ac)) / 2a. It helps us find the roots of any quadratic equation quickly.
+
+Q: What are trigonometric ratios?
+A: Trigonometric ratios like sine, cosine, and tangent compare sides of a right triangle. They are used to find missing sides or angles.
+
+Q: What is the Pythagoras theorem?
+A: In a right-angled triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides. The formula is a^2 + b^2 = c^2.
+
+Q: What is an arithmetic progression?
+A: An arithmetic progression is a sequence where the difference between consecutive terms stays the same. For example, 2, 5, 8, 11 is an AP with common difference 3.
+
+Q: What is coordinate geometry?
+A: Coordinate geometry studies points, lines, and shapes using the x-axis and y-axis. It helps us find distance, midpoint, slope, and area on a graph.
+
+Q: What is a cell?
+A: A cell is the basic structural and functional unit of life. All living things are made of one or more cells.
+
+Q: What are the main parts of a plant cell?
+A: A plant cell has a cell wall, cell membrane, cytoplasm, nucleus, and chloroplasts. The large vacuole stores water and helps keep the cell firm.
+
+Q: How does photosynthesis happen?
+A: Photosynthesis is the process by which green plants make food using sunlight, carbon dioxide, and water. It produces glucose and releases oxygen.
+
+Q: What is the human digestive system?
+A: The human digestive system breaks food into simple nutrients that the body can absorb. It includes the mouth, stomach, small intestine, large intestine, and other organs.
+
+Q: What is DNA and heredity?
+A: DNA is the molecule that carries genetic instructions in living things. Heredity is the passing of traits from parents to children through genes.
+
+Q: What is an ecosystem?
+A: An ecosystem is a community of living things and the non-living environment around them. Plants, animals, water, air, and soil all interact in an ecosystem.
+
+Q: What is respiration in living beings?
+A: Respiration is the process of releasing energy from food in the cells. It usually uses oxygen and produces carbon dioxide and water.
