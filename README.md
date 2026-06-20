@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 About VidyaBot
+##  About VidyaBot
 
 VidyaBot is a full-stack AI-powered adaptive learning platform that solves a critical problem in Indian education — the **one-size-fits-all teaching model**.
 
